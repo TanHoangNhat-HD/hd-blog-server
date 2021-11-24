@@ -1,4 +1,17 @@
 {
+  "todos" : [
+    {
+      id: 1,
+      name: "Learning ReactJS",
+      completed: false
+    },
+     {
+      id: 2,
+      name: "Understanding Typescript",
+      completed: false
+    },
+  ],
+  
   "articles": [
     {
       "id": 1,
